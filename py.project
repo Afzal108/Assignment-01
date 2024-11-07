@@ -1,0 +1,11 @@
+import random
+
+quotes = [
+    "Believe in yourself.",
+    "Stay positive.",
+    "Keep moving forward.",
+    "Dream big.",
+    "Never give up."
+]
+
+print(random.choice(quotes))
