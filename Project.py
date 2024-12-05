@@ -27,13 +27,7 @@ def display_all_students():
         print("No students found or added.")
 
 def main():
-    add_student("Afzal", 85)
-    add_student("Ali", 75)
-    add_student("fazal", 100)
-    add_student("Awais", 95)
-    add_student("Hassan", 90)
-    add_student("Ashfaq", 70)
-    
+   
     while True:
         print('\nStudent Grades Management System')
         print("1. Add Student")
